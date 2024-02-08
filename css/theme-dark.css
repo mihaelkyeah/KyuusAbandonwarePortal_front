@@ -4,5 +4,7 @@
     --backg-secondary-r: 95;
     --backg-secondary-g: 23;
     --backg-secondary-b: 31;
-    --color-main: #f7e7e7;
+    --color-main: #f7f0f0;
+    --color-secondary: #f7f0f0;
+    --color-grayedout: #999;
 }
