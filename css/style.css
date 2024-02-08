@@ -1,0 +1,5 @@
+body, html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    background: var(--backg-primary);
+    color: var(--color-main);
+}

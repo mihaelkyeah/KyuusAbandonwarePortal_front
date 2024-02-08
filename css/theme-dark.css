@@ -1,0 +1,8 @@
+:root {
+    --backg-primary: rgb(15,15,15);
+    --backg-secondary: rgb(95,23,31);
+    --backg-secondary-r: 95;
+    --backg-secondary-g: 23;
+    --backg-secondary-b: 31;
+    --color-main: #f7e7e7;
+}
